@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Fragmen_2ndtry-03-06-20</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+   <string name="nomaninfo">Name: Ahmed Nafiu Noman\nphone:01684443011\nAge: 25</string>
+
+    <string name="tonyinfo">Name:Tony Nicolas Gomes\nphone:01684442211\nAge:20</string>
+
+
+
 </resources>

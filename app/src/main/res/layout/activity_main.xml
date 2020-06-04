@@ -33,6 +33,7 @@
 
 
         <fragment
+            android:name="com.example.fragmen_2ndtry_03_06_20.tony"
             android:id="@+id/fragmentId"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
